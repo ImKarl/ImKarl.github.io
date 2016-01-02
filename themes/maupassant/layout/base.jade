@@ -46,13 +46,8 @@ html(lang='#{config.language}')
         each item in theme.widgets
           != partial('_widget/' + item + '.jade')
 
-    #footer= '© '
+    #footer= '© 2015 '
       a(href='/', rel='nofollow')= config.title + '.'
-      |  Powered by
-      a(rel='nofollow', target='_blank', href='https://hexo.io')  Hexo.
-      a(rel='nofollow', target='_blank', href='https://github.com/tufu9441/maupassant-hexo')  Theme
-      |  by
-      a(rel='nofollow', target='_blank', href='https://github.com/pagecho')  Cho.
 
     include _partial/totop
     include _partial/after_footer
