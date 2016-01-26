@@ -1,4 +1,4 @@
-_site/*
+_site/
 _theme_packages/*
 .DS_Store
 Thumbs.db
@@ -7,3 +7,5 @@ db.json
 node_modules/
 public/
 .deploy*/
+.sass-cache/
+.jekyll-metadata
