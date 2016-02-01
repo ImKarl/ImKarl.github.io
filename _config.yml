@@ -8,6 +8,8 @@ page_no_title: "无标题" # 文章无标题时默认显示内容
 beian: # "备案号"
 email: alafighting@163.com
 
+duoshuo: alafighting # 多说ID
+
 # Build settings
 markdown: kramdown
 gems: [jekyll-paginate]
@@ -41,8 +43,8 @@ menu:
 # Link settings
 links: # 友情链接
   - title: Android_CJJ
-    url: http://my.csdn.net/junjichen
+    url: https://github.com/android-cjj
   - title: 代码家
-    url: http://blog.daimajia.com/
+    url: http://daimajia.com/
   - title: JieChic
     url: http://www.jiechic.com/
