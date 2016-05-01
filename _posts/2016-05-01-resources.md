@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "资源收集"
+time: 2016-05-01
 categories: collect
 tags: 资源 收集
 ---
