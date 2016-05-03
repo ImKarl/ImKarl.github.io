@@ -88,3 +88,49 @@ http://android-developers.blogspot.com/2011/03/identifying-app-installations.htm
     http://android.jobbole.com/81746/
 - [Android背后的设计思想——功能共享机制](http://www.cnblogs.com/shaweng/p/3800792.html)
     http://www.cnblogs.com/shaweng/p/3800792.html
+- [时速云](https://hub.tenxcloud.com/)
+    https://hub.tenxcloud.com/
+- [漫谈IM通信架构](http://www.yangguo.info/2015/08/17/%E6%BC%AB%E8%B0%88%E9%80%9A%E8%AE%AF%E6%9E%B6%E6%9E%84/)
+    http://www.yangguo.info/2015/08/17/漫谈通讯架构/
+- [在线学习 Google 课程](http://www.studyjamscn.com/)
+    http://www.studyjamscn.com/
+- [Jenkins+Github持续集成](https://segmentfault.com/a/1190000004640060)
+    https://segmentfault.com/a/1190000004640060
+- [如果你用GitHub，可以这样提高效率](https://segmentfault.com/a/1190000004619665)
+    https://segmentfault.com/a/1190000004619665
+- [MoPaaS 魔泊云](http://www.mopaas.com/)
+    http://www.mopaas.com/
+- [DaoCloud](https://www.daocloud.io/)
+    https://www.daocloud.io/
+- [JSRs: Java Specification Requests - detail JSR# 347](https://jcp.org/en/jsr/detail?id=347)
+    https://jcp.org/en/jsr/detail?id=347
+- [JSR107 Cache Specification](https://github.com/jsr107/jsr107spec)
+    https://github.com/jsr107/jsr107spec
+- [libpng for Android NDK](https://github.com/julienr/libpng-android)
+    https://github.com/julienr/libpng-android
+- [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)
+    https://github.com/JackJiang2011/MobileIMSDK
+- [Activity 与 Fragment 通信(99%)完美解决方案](http://android.jobbole.com/82699/)
+    http://android.jobbole.com/82699/
+- [反斗软件](http://www.apprcn.com/)
+    http://www.apprcn.com/
+- [30个Fragment过渡动画](https://github.com/kakajika/FragmentAnimations)
+- [React Native如何做跨平台设计](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112134&idx=1&sn=c26ceb682e361ae33bc1eb5348e5e7bb&scene=1&srcid=0428UDNGZSZ9EwESUV5vzEOU&key=b28b03434249256bb49f9f829b11e8d7834e200f2e4e53287d0939e2913506a8a1b11d77ec0234157f39a580765d8df9&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=t%2FCcK%2FUoLixOCwNHbKXztUPEHqJJ3wy6LWy6scPVIFQ%3D)
+- [GRADLE 构建最佳实践](http://www.figotan.org/2016/04/01/gradle-on-android-best-practise/)
+- [如何给安卓APP安装听诊器,检查数据问题](http://www.figotan.org/2016/04/18/using-stetho-to-diagnose-data-on-android/)
+- [蘑菇街支付金融Android单元测试实践](http://chriszou.com/2016/04/25/android-unit-testing-wechat-group-share.html)
+- [构建 F8 App / React Native 开发指南](http://f8-app.liaohuqiu.net/)
+- [【ReactNative For Android】框架启动核心路径剖析](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796767&idx=1&sn=9a499453b627a223e0c2863658dd0329&scene=1&srcid=0422B4zCQIRGUZx9AMVpv6nQ&key=b28b03434249256b3cf5592b03dea7dd0babe4bc2b1a6b20a9ebaf7cb40d7d9830118e6993ed77775402e2917f3cd269&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=t%2FCcK%2FUoLixOCwNHbKXztUPEHqJJ3wy6LWy6scPVIFQ%3D)
+- [关于 Android 进程保活，你所需要知道的一切](http://www.jianshu.com/p/63aafe3c12af)
+- [带有阻尼效果（橡皮筋效果）跳动的Loading动画](https://github.com/Huyamin150/-dampView-springingView)
+- [估算APK补丁大小](https://github.com/googlesamples/apk-patch-size-estimator)
+- [滑动消失的DialogFragment](https://github.com/kakajika/SwipeAwayDialog)
+- [模仿readme.io登陆页面的动画效果](https://github.com/binglingziyu/OwlView)
+- [58到家通用实时消息平台架构细节（Qcon2016）](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959410&idx=1&sn=b91b5721ca394d15fb391097eddb752d)
+- [我在系统设计上犯过的14个错](http://hellojava.info/?p=458)
+- [Android官方MVP架构示例项目解析](http://www.infoq.com/cn/articles/android-official-mvp-architecture-sample-project-analysis)
+- [制作动画或小游戏——CreateJS基础类（一）](http://www.cnblogs.com/strick/p/5380349.html)
+- [简单粗暴地理解js原型链](http://www.cnblogs.com/qieguo/p/5451626.html)
+- [利用Pluggable Protocol实现浏览器打开本地应用程序](http://www.cnblogs.com/liushaofeng89/p/5432770.html)
+- [领域驱动设计之单元测试最佳实践(一)](http://www.cnblogs.com/richieyang/p/5451440.html)
+- [领域驱动设计之单元测试最佳实践(二)](http://www.cnblogs.com/richieyang/p/5451604.html)
