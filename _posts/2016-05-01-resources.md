@@ -178,5 +178,10 @@ tags: 资源 收集
 - [包与类的命名 - service tool util 区别](http://blog.csdn.net/zollty/article/details/10095849)
 - [6个技巧加速处理你的gradle编译项目](http://www.2cto.com/kf/201602/490977.html)
 - [我的zsh简单设置](http://www.cnblogs.com/bamanzi/p/zsh-simple-guide.html)
+- [2015 移动端 UI/UX 趋势](http://get.ftqq.com/7780.get)
+- [365种创业、办公、和生活成长的精华资源](http://get.ftqq.com/7812.get)
+- [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
+- [H5性能优化方案](http://get.ftqq.com/8007.get)
+- [一个不错的微信应用JS API库](http://get.ftqq.com/300.get)
 
 
