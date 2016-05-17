@@ -9,7 +9,6 @@ tags: 资源 收集
 这里收集了一些资源……
 
 - [马克飞象](https://maxiang.io/)
-
 - [开发与研发](http://blogread.cn/it/article/2989?f=sa)
 - [NestedScrollingParent, NestedScrollingChild  详解](http://blog.csdn.net/chen930724/article/details/50307193)
 - [IntelliJ IDEA 注册码](http://idea.lanyus.com/)

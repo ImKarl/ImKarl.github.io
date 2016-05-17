@@ -20,6 +20,8 @@ permalink: /category/
   }
   if (key.indexOf('/') != -1) {
     key = '';
+  } else {
+    key = decodeURI(key);
   }
 </script>
 
