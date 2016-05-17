@@ -176,4 +176,7 @@ tags: 资源 收集
 - [2016年Github 安卓技术周刊干货汇总](http://www.devstore.cn/essay/essayInfo/6103.html)
 - [最受产品经理关注的10个原型设计工具](http://www.devstore.cn/new/newInfo/17595.html)
 - [包与类的命名 - service tool util 区别](http://blog.csdn.net/zollty/article/details/10095849)
-- 
+- [6个技巧加速处理你的gradle编译项目](http://www.2cto.com/kf/201602/490977.html)
+- [我的zsh简单设置](http://www.cnblogs.com/bamanzi/p/zsh-simple-guide.html)
+
+
