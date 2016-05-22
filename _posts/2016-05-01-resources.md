@@ -182,5 +182,13 @@ tags: 资源 收集
 - [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 - [H5性能优化方案](http://get.ftqq.com/8007.get)
 - [一个不错的微信应用JS API库](http://get.ftqq.com/300.get)
-
+- [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/hehonghui/android-tech-frontier)
+- [A Model-View-Presenter library for modern Android apps](https://github.com/sockeqwe/mosby)
+- [Android聊天界面+emoji表情+大表情实现](https://github.com/kymjs/EmojiChat)
+- [An Android Dialog Lib simplify customization. Supprot 2.2+](https://github.com/H07000223/FlycoDialog_Master)
+- [A custom ViewPager title strip which gives continuous feedback to the user when scrolling](https://github.com/ogaclejapan/SmartTabLayout)
+- [Elastic pull to refresh for iOS developed in Swift](https://github.com/gontovnik/DGElasticPullToRefresh)
+- [Android View that displays different content based on its state](https://github.com/Kennyc1012/MultiStateView)
+- [友盟自动更新技术解决方案(iOS版)](http://bbs.umeng.com/thread-11135-1-1.html) [源码](https://github.com/kkme/CheckUpdateiOS/)
+- [友盟自动更新技术解决方案(安卓版)](http://bbs.umeng.com/thread-15012-1-1.html)
 
