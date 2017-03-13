@@ -3,7 +3,8 @@ title: 壳
 subtitle: ╰每个人都有自己的缺陷,你需要用空杯的心态去吸收/学习新的知识 so...︶
 description: 专注于移动互联网开发信息分享
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.im4j.com" # 你的域名
+url: "http://blog.im4j.com" # 你的网址
+domain: "blog.im4j.com" # 你的域名
 page_no_title: "无标题" # 文章无标题时默认显示内容
 beian: # "备案号"
 email: alafighting@163.com
