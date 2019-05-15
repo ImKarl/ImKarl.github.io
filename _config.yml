@@ -7,16 +7,16 @@ url: "http://blog.im4j.com" # 你的网址
 domain: "blog.im4j.com" # 你的域名
 page_no_title: "无标题" # 文章无标题时默认显示内容
 beian: # "备案号"
-email: alafighting@163.com
+email: imkarl@126.com
 
 duoshuo: alafighting # 多说ID
 
 # Build settings
 markdown: kramdown
-gems: [jekyll-paginate]
 
 # Pageinate settings
 paginate: 10 # 分页大小
+page_size: 10
 paginate_path: ":num"
 
 # Search settings
